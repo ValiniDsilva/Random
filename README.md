@@ -1,2 +1,2 @@
 # Random
-Random python code
+This is a random python code
